@@ -1,2 +1,2 @@
-# boobkbot
+# bookbot
 Bootdev bookbot repo
